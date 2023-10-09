@@ -1,2 +1,4 @@
 # CM-Games-Launcher (under construction)
-For launching and configuring CM Games, that i and the discord server: https://discord.gg/J28bhxFN2Z will make
+For launching and configuring CM Games... v0.1
+Discord server if you want to help :P 
+ --->  https://discord.gg/J28bhxFN2Z  <---
